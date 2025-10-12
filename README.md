@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 I'm a junior STEM major working on building my coding portfolio. My goal is to become proficient in Python, and eventually dive into C++ and C# to develop video games using Godot.
 
 Right now, I’m starting small with Python projects, because learning a language is one thing, applying it is another! In the meantime, feel free to check out some of my other work: 
-- [my personal site](https://github.com/kokonutzlabs/Portfolio-Site)
-- [nook book php mock up](https://github.com/kokonutzlabs/Nook-Book)
+- [my portfolio site](https://github.com/kokonutzlabs/Portfolio-Site)
+- [nook book](https://github.com/kokonutzlabs/Nook-Book)
 
 ## Skills
 - Python, HTML, CSS, JavaScript, C++
@@ -26,11 +26,11 @@ Right now, I’m starting small with Python projects, because learning a languag
 - Virtual Machines, Kali Linux
   
 ## Tools
-- Linux (Ubuntu)
 - Visual Studio Code
+- Git
 
 ## Goals
-- Improve Python proficiency through hands-on projects
+- Improve Python proficiency through hands on projects
 - Learn C++ and C# for game development
 - Build games using the Godot engine
 - Keep growing this portfolio as I learn!
