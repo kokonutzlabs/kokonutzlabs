@@ -21,7 +21,7 @@ Right now, I’m starting small with Python based tools and forensic simulations
 - [nook book](https://github.com/kokonutzlabs/Nook-Book)
 
 ## Skills
-- Languages: Python, HTML, CSS, JavaScript, C++, PHP
+- Languages: Python, HTML, CSS, JavaScript, C++, PHP, SQL
 - Systems: Linux (Ubuntu, Kali), Git, VS Code, Shell, Windows
 - Tools: Git, GitHub, VS Code, Shell, SAP ERP
 - Security: Log analysis, threat modeling, basic forensics
