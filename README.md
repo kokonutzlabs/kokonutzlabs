@@ -3,8 +3,8 @@
 I'm Kortney, a junior STEM major building a hands on coding portfolio. My current focus is Python and cybersecurity, with growing interest in digital forensics and secure systems. I’m also exploring game development with C++ and C# using the Godot engine.
 
 Right now, I’m starting small with Python based tools and forensic simulations, because learning a language is one thing, applying it to real world problems is another!In the meantime, feel free to check out some of my other work: 
-- [portfolio_site_v1](https://github.com/kokonutzlabs/Portfolio-Site)
-- [nook_book_v1](https://github.com/kokonutzlabs/Nook-Book)
+- [HTML/CSS/JAVASCRIPT_personal_portfolio](https://github.com/kokonutzlabs/Portfolio-Site)
+- [CYBER_FORENSICS_nook_book_case(https://github.com/kokonutzlabs/Nook-Book)
 
 ## Skills
 - Languages: Python, HTML, CSS, JavaScript, C++, PHP, SQL
