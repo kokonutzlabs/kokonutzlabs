@@ -4,7 +4,7 @@ I'm Kortney, a junior STEM major building a hands on coding portfolio. My curren
 
 Right now, I’m starting small with Python based tools and forensic simulations, because learning a language is one thing, applying it to real world problems is another!In the meantime, feel free to check out some of my other work: 
 - [HTML/CSS/JAVASCRIPT_personal_portfolio](https://github.com/kokonutzlabs/Portfolio-Site)
-- [CYBER_FORENSICS_nook_book_case(https://github.com/kokonutzlabs/Nook-Book)
+- [CYBER_FORENSICS_nook_book_case](https://github.com/kokonutzlabs/Nook-Book)
 
 ## Skills
 - Languages: Python, HTML, CSS, JavaScript, C++, PHP, SQL
