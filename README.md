@@ -16,22 +16,37 @@ Key responsibilities and achievements include:
 
 ## Technical Skills
 #### Programming and Scripting Languages: 
-##### -Python, JavaScript, C++, PHP, SQL
-##### -HTML, CSS
+###### - Python, JavaScript, C++, PHP, SQL
+###### - HTML, CSS
 
-#### Systems: Linux (Ubuntu, Kali), Git, VS Code, Shell, Windows
+#### Operating Systems & Environments:
+###### - Linux (Ubuntu, Kali)
+###### - Windows
 
-#### Tools: Git, GitHub, VS Code, Shell, SAP ERP
+#### Development & Productivity Tools
+###### - Git, Github
+###### - Virtual Studio Code
+###### - Shell Scripting
+###### - SAP ERP
 
-#### Security: Log analysis, threat modeling, basic forensics
+#### Security & Forensics Foundations
+###### - Log Analysis
+###### - Threat Modeling
+###### - Basic Digital Forensics Concepts
 
-#### Other: Power BI, automation scripting, basic networking
+#### Data & Infrastructure
+###### - Power BI
+###### - Automation Scripting
+###### - Basic Networking Concepts
 
 ## Professional Goals
 1. Build Python tools for cybersecurity and forensic analysis
 2. Learn C++ and C# for game development
 3. Create secure, resilient systems in warehouse environments
 4. Keep growing this portfolio with real world creative projects
+5.
+6.
+7.
 
 ## Additional Projects
 #### Includes non-career focused projects that contribute to core skill development in programming , problem solving, and systems analysis.
