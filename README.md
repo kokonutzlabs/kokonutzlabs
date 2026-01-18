@@ -3,9 +3,9 @@
 I am a junior IT major with a career focus in **cybersecuirty - digital forensics**. Mr professional objective is to apply technical and analytical skills to both **secure and optimize warehouse warehouse operations**, while also contributing to investigative and forensic efforts that support crime prevention. I aim to bridge operational technology, data analysis, and security to improve efficiency, integrity, and resilience in production environments.
 
 ## Work Experience
-####**Flue Cured Tobacco Growers - Warehouse Operations & IT Support**
+#### **Flue Cured Tobacco Growers - Warehouse Operations & IT Support**
 *2017-2022*
-####Worked in a large scale tobacco textile warehouse, gaining hands on experience across multiple operational roles, including **ticketing, scalehouse, and shipping/logisitics**. 
+#### Worked in a large scale tobacco textile warehouse, gaining hands on experience across multiple operational roles, including **ticketing, scalehouse, and shipping/logisitics**. 
 Key responsibilities and achievements include:
 -
 -
