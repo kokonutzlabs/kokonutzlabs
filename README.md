@@ -5,7 +5,7 @@ I am a junior IT major with a career focus in **cybersecuirty - digital forensic
 ## Work Experience
 ### **Flue Cured Tobacco Growers - Warehouse Operations & IT Support**
 *2017-2022*
-#### Worked in a large scale tobacco textile warehouse, gaining hands on experience across multiple operational roles, including **ticketing, scalehouse, and shipping/logisitics**. 
+##### Worked in a large scale tobacco textile warehouse, gaining hands on experience across multiple operational roles, including **ticketing, scalehouse, and shipping/logisitics**. 
 Key responsibilities and achievements include:
 -
 -
