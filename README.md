@@ -15,15 +15,17 @@ Key responsibilities and achievements include:
 ## Additional Education & Training
 
 ## Technical Skills
-Languages: Python, HTML, CSS, JavaScript, C++, PHP, SQL
+#### Programming and Scripting Languages: 
+##### -Python, JavaScript, C++, PHP, SQL
+##### -HTML, CSS
 
-Systems: Linux (Ubuntu, Kali), Git, VS Code, Shell, Windows
+#### Systems: Linux (Ubuntu, Kali), Git, VS Code, Shell, Windows
 
-Tools: Git, GitHub, VS Code, Shell, SAP ERP
+#### Tools: Git, GitHub, VS Code, Shell, SAP ERP
 
-Security: Log analysis, threat modeling, basic forensics
+#### Security: Log analysis, threat modeling, basic forensics
 
-Other: Power BI, automation scripting, basic networking
+#### Other: Power BI, automation scripting, basic networking
 
 ## Professional Goals
 1. Build Python tools for cybersecurity and forensic analysis
