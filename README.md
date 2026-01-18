@@ -7,10 +7,10 @@ I am a junior IT major with a career focus in **cybersecuirty - digital forensic
 *2017-2022*
 ##### Worked in a large scale tobacco textile warehouse, gaining hands on experience across multiple operational roles, including **ticketing, scalehouse, and shipping/logisitics**. 
 Key responsibilities and achievements include:
--
--
--
--
+###### * Entered, maintained, and validated shipment and inventory data using SAP ERP (Systems, Applications, and Products in Data Processing)
+###### * Recorded inbound and outbound truckloads, box-level inventory, and warehouse storage data
+###### * Supported operational accuracy, compliance, and traceability through structured data entry and process adherence
+###### * Developed a strong understanding of warehouse workflows, logistics systems, and production-scale operations
 
 ## Additional Education & Training
 
@@ -40,13 +40,13 @@ Key responsibilities and achievements include:
 ###### - Basic Networking Concepts
 
 ## Professional Goals
-1. Build Python tools for cybersecurity and forensic analysis
-2. Learn C++ and C# for game development
-3. Create secure, resilient systems in warehouse environments
-4. Keep growing this portfolio with real world creative projects
-5.
-6.
-7.
+1. Develop Python-based tools for cybersecurity monitoring and forensic analysis
+2. Design and implement secure, resilient systems for warehouse and industrial environments
+3. Expand this portfolio with real-world, technically creative projects
+4. Learn engineering principles related to warehouse infrastructure to improve both physical and digital security
+5. Advance drafting and process-optimization skills to improve operational efficiency
+6. Transition into vulnerability research and bug hunting as skills mature
+7. Study reverse engineering techniques, including applications in game modification and software analysis
 
 ## Additional Projects
 #### Includes non-career focused projects that contribute to core skill development in programming , problem solving, and systems analysis.
