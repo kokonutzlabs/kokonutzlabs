@@ -14,7 +14,7 @@ Key responsibilities and achievements include:
 
 ## Additional Education & Training
 #### GOP & SMP Certification Courses — 2023
-###### Completed specialized training courses focused on **warehouse standards, operational procedures, and compliance**, strengthening my understanding of industry best practices. These courses enhanced my ability to operate across multiple warehouse functions and contribute as a versatile, standards-aware team member.
+##### Completed specialized training courses focused on **warehouse standards, operational procedures, and compliance**, strengthening my understanding of industry best practices. These courses enhanced my ability to operate across multiple warehouse functions and contribute as a versatile, standards-aware team member.
 
 ## Technical Skills
 #### Programming and Scripting Languages: 
