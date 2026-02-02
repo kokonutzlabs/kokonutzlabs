@@ -1,11 +1,11 @@
 # Greetings
 
-I am a junior IT major with a career focus in **cybersecuirty - digital forensics**. My professional objective is to apply technical and analytical skills to both **secure and optimize warehouse operations**, while also contributing to investigative and forensic efforts that support crime prevention. I aim to bridge operational technology, data analysis, and security to improve efficiency, integrity, and resilience in production environments.
+I am a junior IT major with a career focus on **cybersecuirty - digital forensics**. My professional objective is to apply technical and analytical skills to both **secure and optimize warehouse operations**, while also contributing to investigative and forensic efforts that support crime prevention. I aim to bridge operational technology, data analysis, and security to improve efficiency, integrity, and resilience in production environments.
 
 ## Work Experience
 ### **Flue Cured Tobacco Growers - Warehouse Operations & IT Support**
 *2017-2022*
-##### Worked in a large scale tobacco textile warehouse, gaining hands on experience across multiple operational roles, including **ticketing, scalehouse, and shipping/logisitics**. 
+##### Worked in a large scale tobacco textile warehouse, gaining hands-on experience across multiple operational roles, including **ticketing, scalehouse, and shipping/logistics**. 
 Key responsibilities and achievements include:
 ###### * Entered, maintained, and validated shipment and inventory data using SAP ERP (Systems, Applications, and Products in Data Processing)
 ###### * Recorded inbound and outbound truckloads, box-level inventory, and warehouse storage data
@@ -26,7 +26,7 @@ Key responsibilities and achievements include:
 ###### - Windows
 
 #### Development & Productivity Tools
-###### - Git, Github
+###### - Git, GitHub
 ###### - Virtual Studio Code
 ###### - Shell Scripting
 ###### - SAP ERP
@@ -51,7 +51,7 @@ Key responsibilities and achievements include:
 7. Study reverse engineering techniques, including applications in game modification and software analysis
 
 ## Additional Projects
-#### Includes non-career focused projects that contribute to core skill development in programming , problem solving, and systems analysis.
+#### Includes non-career focused projects that contribute to core skill development in programming, problem-solving, and systems analysis.
   
 ## Let's Connect
-#### I welcome feedback, collaboration, connectins, or opportunites with fellow devs and security professionals. Please reach out via GitHub. Thank you. (o_ _)ﾉ彡☆
+#### I welcome feedback, collaboration, connectins, or opportunities with fellow devs and security professionals. Please reach out via GitHub. Thank you. (o_ _)ﾉ彡☆
