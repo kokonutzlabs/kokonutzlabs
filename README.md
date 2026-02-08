@@ -17,15 +17,15 @@ Key responsibilities and achievements include:
 ##### Completed specialized training courses focused on **warehouse standards, operational procedures, and compliance**, strengthening my understanding of industry best practices. These courses enhanced my ability to operate across multiple warehouse functions and contribute as a versatile, standards-aware team member.
 
 ## Technical Skills
-#### **Programming and Scripting Languages:** Python, JavaScript, C++, PHP, SQL, HTML/CSS
+#### **Programming and Scripting Languages:** ######Python, JavaScript, C++, PHP, SQL, HTML/CSS
 
-#### **Security & Forensics:** Log analysis, threat modeling, basic digital forensics concepts
+#### **Security & Forensics:** ######Log analysis, threat modeling, basic digital forensics concepts
 
-#### **Data & Analysis:** Power BI, automation scripting, SAP ERP
+#### **Data & Analysis:** ######Power BI, automation scripting, SAP ERP
 
-#### **Systems & Tools:** Linux (Ubuntu, Kali), Windows, Git/GitHub, VS Code, Shell scripting
+#### **Systems & Tools:** ######Linux (Ubuntu, Kali), Windows, Git/GitHub, VS Code, Shell scripting
 
-#### **Networking & Infrastructure:** Basic networking concepts
+#### **Networking & Infrastructure:** ######Basic networking concepts
 
 ## Professional Goals
 1. Develop Python-based tools for cybersecurity monitoring and industrial forensics
