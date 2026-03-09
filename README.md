@@ -18,14 +18,14 @@ Key responsibilities and achievements include:
 
 ## Technical Skills
 #### **Programming and Scripting Languages:** 
-###### Python, JavaScript, C++, PHP, SQL, HTML/CSS
+###### Python, NumPy, Java, C++, c#
 
 #### **Security & Forensics:** 
-###### Log analysis, threat modeling, basic digital forensics concepts
+###### Log analysis, threat modeling, basi00c digital forensics concepts
 
 #### **Data & Analysis:** 
-###### Power BI, automation scripting, SAP ERP
-
+###### Power BI, automation scripting, SAP ERP, Saas, sas, AWS
+ 
 #### **Systems & Tools:** 
 ###### Linux (Ubuntu, Kali), Windows, Git/GitHub, VS Code, Shell scripting
 
