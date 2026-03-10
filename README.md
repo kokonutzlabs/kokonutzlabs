@@ -18,7 +18,7 @@ Key responsibilities and achievements include:
 
 ## Technical Skills
 #### **Programming and Scripting Languages:** 
-###### Python, NumPy, Java, C++, c#, r programming
+###### Python, NumPy, Java, C++, c#, r programming, HTML, CSS, PHP
 
 #### **Security & Forensics:** 
 ###### Log analysis, threat modeling, basi00c digital forensics concepts
