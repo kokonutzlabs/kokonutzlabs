@@ -5,9 +5,12 @@
 ## Work Experience
 ### **Handshake AI Fellowship - AI Trainer**
 *2025 -*
-##### Performed contract based quality review of AI-generated outputs, including error correction and structured documentation of issues for proprietary client projects.**. 
+##### Performed contract based quality review of AI-generated outputs, including error correction and structured documentation of issues for proprietary client projects**. 
 Key responsibilities and achievements include:
-
+###### * Strict compliance with complex rule-sets, quality assurance (QA), and evaluation metrics.
+###### * Specialized knowledge (e.g., coding/programming, legal terminology, creative writing, healthcare, or foreign languages) to assess model outputs.
+###### * Writing clear instructions and instructions refinement (e.g., Google Prompting Essentials Specialization).
+###### * Basic Python or natural language processing (NLP) concepts.
 
 ### **Flue Cured Tobacco Growers - Warehouse Operations & IT Support**
 *2017-2022*
