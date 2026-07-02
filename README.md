@@ -3,6 +3,12 @@
 **Hello! I’m an IT student focused on digital forensics and operational technology (OT) security.** I apply technical and analytical skills to secure and optimize warehouse and industrial operations, bridging digital systems, data analysis, and hands-on operational workflows to improve efficiency, integrity, and resilience.
 
 ## Work Experience
+### **Handshake AI Fellowship - AI Trainer**
+*2025 -*
+##### Performed contract based quality review of AI-generated outputs, including error correction and structured documentation of issues for proprietary client projects.**. 
+Key responsibilities and achievements include:
+
+
 ### **Flue Cured Tobacco Growers - Warehouse Operations & IT Support**
 *2017-2022*
 ##### Worked in a large scale tobacco textile warehouse, gaining hands-on experience across multiple operational roles, including **ticketing, scalehouse, and shipping/logistics**. 
