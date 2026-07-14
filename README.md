@@ -1,6 +1,6 @@
 # Greetings
 
-**A senior Information Technology (IT) major with a concentration in cybersecurity.** Pursuing a career in Information Technology/Operational Technology (IT/OT) mixed with Digital Forensics and Incident Response (DFIR). With prior five years experience in the textile warehouse environment.
+**I'm a senior Information Technology (IT) major with a concentration in cybersecurity.** Pursuing a career in Information Technology/Operational Technology (IT/OT) mixed with Digital Forensics and Incident Response (DFIR). With prior five years experience in the textile warehouse environment.
 
 ## Work Experience
 ### **Handshake AI Fellowship - AI Trainer**
