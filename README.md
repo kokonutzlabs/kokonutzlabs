@@ -41,15 +41,12 @@ Key responsibilities and achievements include:
 #### **Networking & Infrastructure:** 
 ###### Basic networking concepts
 
-## Professional Goals
-1. Develop Python-based tools for cybersecurity monitoring and industrial forensics
+## Career Goals
+1. Develop Python based tools for cybersecurity monitoring and industrial forensics
 2. Design secure, resilient systems for warehouse and production environments
 3. Build projects combining OT systems, electrical/mechanical workflows, and data analytics
 4. Advance drafting, mechatronics, and engineering skills to optimize industrial operations
 5. Explore vulnerability research, reverse engineering, and applied software/system analysis
 
-## Additional Projects
-#### Includes personal projects demonstrating programming, problem-solving, and system analysis skills, bridging digital tools with industrial workflows.
-
 ## Let's Connect
-#### I welcome feedback, collaboration, and opportunities to work on industrial, cybersecurity, or data-driven projects. Connect with me here on GitHub! Thank you. (o_ _)ﾉ彡☆
+#### I welcome feedback, collaboration, and opportunities to work on industrial, cybersecurity, or data driven projects. Connect with me here on GitHub! Thank you. (o_ _)ﾉ彡☆
