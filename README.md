@@ -1,6 +1,6 @@
 # Greetings
 
-**Hello! I’m an IT student focused on digital forensics and operational technology (OT) security.** I apply technical and analytical skills to secure and optimize warehouse and industrial operations, bridging digital systems, data analysis, and hands-on operational workflows to improve efficiency, integrity, and resilience.
+**A senior Information Technology (IT) major with a concentration in cybersecurity.** Pursuing a career in Information Technology/Operational Technology (IT/OT) mixed with Digital Forensics and Incident Response (DFIR). With prior five years experience in the textile warehouse environment.
 
 ## Work Experience
 ### **Handshake AI Fellowship - AI Trainer**
